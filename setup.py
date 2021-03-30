@@ -13,7 +13,7 @@ setup(
     url='https://internal-bb-repo.com/interpolate',
     author='Lorenzo Orifici',
     author_email='lorenzo.orifici@noreply.com',
-    license='Internal',
+    license='MIT License',
     packages=find_packages(),
     entry_points={
         'console_scripts': [
